@@ -16,7 +16,6 @@ This repository is used for:
 
 Assignment documents, session recordings, and course resources are available through the official TechTalks Google Drive.
 
-[Access the Bootcamp Google Drive](GOOGLE_DRIVE_LINK)
 
 ## Important Notice
 
@@ -24,7 +23,7 @@ Students must not upload their full assignment projects to this repository.
 
 Every assignment must be created in a separate personal GitHub repository.
 
-TechTalks mentors will review the student's code through a pull request opened inside the student's project repository.
+Khaled will review the student's code through a pull request opened inside the student's project repository.
 
 ## Complete Submission Process
 
@@ -54,7 +53,7 @@ techtalks-assignment-number-firstname-lastname
 Example:
 
 ```text
-techtalks-assignment-1-ali-jichi
+techtalks-assignment-1-khaled-frayji
 ```
 
 For the final project:
@@ -72,25 +71,25 @@ assignment-number-firstname-lastname
 Example:
 
 ```text
-assignment-01-ali-jichi
+assignment-01-khaled-frayji
 ```
 
 For the final project:
 
 ```text
-final-project-ali-jichi
+final-project-khaled-frayji
 ```
 
 ### Student Pull Request Title
 
 ```text
-Assignment 1 Submission — Ali Jichi
+Assignment 1 Submission — Khaled Frayji
 ```
 
 For the final project:
 
 ```text
-Final Project Submission — Ali Jichi
+Final Project Submission — Khaled Frayji
 ```
 
 ### Submission File Naming
@@ -104,7 +103,7 @@ firstname-lastname.md
 Example:
 
 ```text
-submissions/assignment-01/ali-jichi.md
+submissions/assignment-01/khaled-frayji.md
 ```
 
 ## Submission File Template
@@ -114,7 +113,7 @@ submissions/assignment-01/ali-jichi.md
 
 ## Student Information
 
-**Full Name:** Ali Jichi
+**Full Name:** Khaled Frayji
 **GitHub Username:** @username
 **Submission Date:** August 2, 2026
 
@@ -128,15 +127,6 @@ submissions/assignment-01/ali-jichi.md
 
 Write a short description of the completed project.
 
-## Completed Requirements
-
-- [x] Required pages created
-- [x] Navigation implemented
-- [x] Dynamic routes implemented
-- [x] Server Component used
-- [x] Client Component used
-- [x] TypeScript used
-- [x] Project deployed
 
 ## Known Issues
 
