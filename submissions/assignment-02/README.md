@@ -27,7 +27,7 @@ firstname-lastname.md
 Example:
 
 ```text
-ali-jichi.md
+khaled-frayji.md
 ```
 
 Your submission must include:
