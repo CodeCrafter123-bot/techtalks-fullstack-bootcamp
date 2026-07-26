@@ -26,7 +26,7 @@ git checkout -b assignment-01-firstname-lastname
 Example:
 
 ```bash
-git checkout -b assignment-01-ali-jichi
+git checkout -b assignment-01-khaled-frayji
 ```
 
 ## Step 3: Push the Assignment Work
@@ -36,7 +36,7 @@ Complete your assignment on the branch, then push it to GitHub.
 ```bash
 git add .
 git commit -m "Complete Assignment 1"
-git push -u origin assignment-01-ali-jichi
+git push -u origin assignment-01-khaled-frayji
 ```
 
 ## Step 4: Open the Student Project Pull Request
@@ -44,7 +44,7 @@ git push -u origin assignment-01-ali-jichi
 Open a pull request in your project repository:
 
 ```text
-assignment-01-ali-jichi → main
+assignment-01-khaled-frayji → main
 ```
 
 Keep this pull request open for mentor review. Copy the pull request URL because you must include it in your official submission file.
@@ -61,7 +61,7 @@ cd techtalks-fullstack-bootcamp
 ## Step 6: Create the Official Submission Branch
 
 ```bash
-git checkout -b submit-assignment-01-ali-jichi
+git checkout -b submit-assignment-01-khaled-frayji
 ```
 
 ## Step 7: Create the Submission File
@@ -69,7 +69,7 @@ git checkout -b submit-assignment-01-ali-jichi
 Create a Markdown file under the correct assignment folder using your full name:
 
 ```text
-submissions/assignment-01/ali-jichi.md
+submissions/assignment-01/khaled-frayji.md
 ```
 
 Fill in the submission template with your student information, project links, and description. See the main README for the required template.
@@ -78,8 +78,8 @@ Fill in the submission template with your student information, project links, an
 
 ```bash
 git add .
-git commit -m "Register Assignment 1 submission - Ali Jichi"
-git push origin submit-assignment-01-ali-jichi
+git commit -m "Register Assignment 1 submission - Khaled Frayji"
+git push origin submit-assignment-01-khaled-frayji
 ```
 
 ## Step 9: Open the Official Submission Pull Request
@@ -87,7 +87,7 @@ git push origin submit-assignment-01-ali-jichi
 Open a pull request from your fork to the official TechTalks repository. Use this title format:
 
 ```text
-Register Assignment 1 Submission — Ali Jichi
+Register Assignment 1 Submission — Khaled Frayji
 ```
 
 This pull request must contain only your submission Markdown file. Do not include project source code, extra files, or changes to other students' submissions.
