@@ -8,8 +8,8 @@
 
 ## Project Links
 
-**Project Repository:** https://github.com/HIRGON7/assignment-01-hadi-jawhari  
-**Code Review Pull Request:** https://github.com/HIRGON7/assignment-01-hadi-jawhari/pull/1  
+**Project Repository:** https://github.com/HIRGON7/techtalks-assignment-1-hadi-jawhari  
+**Code Review Pull Request:** https://github.com/HIRGON7/techtalks-assignment-1-hadi-jawhari/pull/2  
 **Live Deployment:** Not required  
 
 ## Project Description
