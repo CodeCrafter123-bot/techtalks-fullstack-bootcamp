@@ -15,8 +15,7 @@
 https://github.com/sirine536/techtalks-assignment-1-sirine-asmar
 
 **Code Review Pull Request:**  
-(حطي هون رابط الـ Pull Request الأول تبع مشروعك)
-
+sirine536/techtalks-assignment-1-sirine-asmar
 
 **Live Deployment:** Not required
 
